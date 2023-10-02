@@ -25,7 +25,7 @@ for i in range(0,5,1):
 p=0
 a=0
 while(a!=5):
-    print("1 . Enter details")
+    print("1 . Please Enter details")
     print("2 . Show details")
     print("3 . Deposit")
     print("4 . Withdrawal")
